@@ -5,6 +5,7 @@ A program for flooding messages using webhooks
 - Very fast message sending
 - Have a function for creating webhooks for all channels
 - You can delete webhooks without permissions
+- Automatically removes non-working webhooks
 
 # ⚙️ Instructions ⚙️
 1) Downoload This
